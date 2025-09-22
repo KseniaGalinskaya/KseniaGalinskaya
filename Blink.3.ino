@@ -10,7 +10,6 @@ const int ledPin = 13;
 
 int buttonState = 0;
 
-  // initialize digital pin LED_BUILTIN as an output.
   pinMode(ledPin, OUTPUT);
   pinMode(buttonPin, INPUT);
 
